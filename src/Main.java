@@ -1,9 +1,9 @@
 
-public class Main_ {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		System.out.println("今日は無駄な事をやれない日だねぇ");
+		ihfoaihifohpiawejh;fioajhwf
 
 	}
 
